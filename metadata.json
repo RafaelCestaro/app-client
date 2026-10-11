@@ -1,0 +1,6 @@
+{
+  "name": "Rede social dos atletas",
+  "description": "O app definitivo para atletas registrarem seus treinos para enviar dados completos para os profissionais que o acompanham, treinadores, diretores, invesidores, clubes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
